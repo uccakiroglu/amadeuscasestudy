@@ -1,0 +1,37 @@
+{
+    "flight1": {"departureFrom": {"location" : "New York City"},
+    "arrivalTo" : {"location" : "Istanbul"},
+    "departureDate" : "2022-01-01 02:00:00",
+    "returnDate" : "2022-02-02 02:00:00",
+    "flightPrice" : 250},
+
+    "flight2" : {"departureFrom": {"location" : "Paris"},
+    "arrivalTo" : {"location" : "Istanbul"},
+    "departureDate" : "2022-01-01 03:00:00",
+    "returnDate" : "2022-01-20 04:00:00",
+    "flightPrice" : 200},
+
+    "flight3" : {"departureFrom": {"location" : "Eskisehir"},
+    "arrivalTo" : {"location" : "Antalya"},
+    "departureDate" : "2022-01-01 15:45:00",
+    "returnDate" : "2022-01-05 14:20:00",
+    "flightPrice" : 120},
+
+    "flight4" : {"departureFrom": {"location" : "Istanbul"},
+    "arrivalTo" : {"location" : "Antalya"},
+    "departureDate" : "2022-01-01 10:45:00",
+    "returnDate" : "2022-02-10 11:20:00",
+    "flightPrice" : 120},
+
+    "flight5" : {"departureFrom": {"location" : "Boston"},
+    "arrivalTo" : {"location" : "Istanbul"},
+    "departureDate" : "2022-03-02 12:00:00",
+    "returnDate" : "2022-03-10 16:00:00",
+    "flightPrice" : 250},
+
+    "flight6" : {"departureFrom": {"location" : "London"},
+    "arrivalTo" : {"location" : "Paris"},
+    "departureDate" : "2022-02-01 09:00:00",
+    "returnDate" : "2022-02-02 22:00:00",
+    "flightPrice" : 200}
+}
